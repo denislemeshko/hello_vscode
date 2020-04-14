@@ -1,0 +1,33 @@
+00:00:06.169020 VirtualBox GUI VM Selector Window 6.0.14 r133895 win.amd64 (Oct 10 2019 19:44:31) release log
+00:00:06.169023 Log opened 2019-11-15T14:07:11.694796400Z
+00:00:06.169023 Build Type: release
+00:00:06.169029 OS Product: Windows 10
+00:00:06.169031 OS Release: 10.0.17134
+00:00:06.169031 OS Service Pack: 
+00:00:06.187119 DMI Product Name: System Product Name
+00:00:06.192026 DMI Product Version: System Version
+00:00:06.192042 Host RAM: 8190MB (7.9GB) total, 4313MB (4.2GB) available
+00:00:06.192052 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:06.192054 Process ID: 20084
+00:00:06.192054 Package type: WINDOWS_64BITS_GENERIC
+00:00:06.192173 Qt version: 5.6.2
+00:00:06.248610 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:06.807925 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:55.392820 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:09:55.947992 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:12.054510 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:12.227196 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:17.294821 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:11:17.524719 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:07.410319 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:06.255748 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:20.195937 GUI: Updating snapshot tree after TAKING snapshot with MachineID={{2cc6b894-b4e9-4859-bec5-9798365ffc9f}}, SnapshotID={{4092f320-d98d-4851-972f-7278fae09d3f}}...
+00:16:20.227075 GUI: Snapshot tree update successful!
+00:16:20.654902 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:34.927900 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:16:35.323357 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:41.571213 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:41.666061 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:42.654399 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:39:11.821909 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:39:11.822041 Log rotated - Log started 2019-11-15T14:07:11.694796400Z
