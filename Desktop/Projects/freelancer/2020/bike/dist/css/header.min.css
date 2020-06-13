@@ -1,0 +1,2 @@
+.header{position:absolute;width:100%;z-index:50;left:0;top:35px}.header__row{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:85px}.header__logo{position:absolute;left:50%;top:0}.header .menu__list{display:-webkit-box;display:-ms-flexbox;display:flex}.header__link{color:#4d4959;font-size:13px;font-weight:700;text-transform:uppercase;line-height:2.6px}
+/*# sourceMappingURL=header.min.css.map */
